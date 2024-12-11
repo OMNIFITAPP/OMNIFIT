@@ -1,6 +1,6 @@
-# Hybrid Health Club
+# OMNIFIT
 
-Welcome to the Hybrid Health Club website repository! This project showcases a modern and vibrant landing page designed to promote a fitness community, highlight services, and engage users with a visually appealing and functional interface.
+Welcome to the OMNIFIT website repository! This project showcases a modern and vibrant landing page designed to promote a fitness community, highlight services, and engage users with a visually appealing and functional interface.
 
 ---
 
@@ -16,7 +16,7 @@ Welcome to the Hybrid Health Club website repository! This project showcases a m
 - Clear Call-to-Action (CTA) button to drive user engagement.
 
 ### 2. **About Section**
-- Highlights the purpose and values of the fitness club.
+- Highlights the purpose and values of the fitness app.
 
 ### 3. **Features Section**
 - Details key offerings like state-of-the-art equipment, personalized programs, and community support.
@@ -28,7 +28,7 @@ Welcome to the Hybrid Health Club website repository! This project showcases a m
 
 ## File Structure
 ```
-hybrid-health-club/
+omnifit/
 ├── index.html       # Main HTML file for the website.
 ├── styles.css       # CSS file for styling.
 └── hero-image.jpg   # Placeholder for the hero background image.
@@ -40,12 +40,12 @@ hybrid-health-club/
 
 ### 1. Clone the Repository:
 ```bash
-git clone https://github.com/omnifitapp/hybrid-health-club.git
+git clone https://github.com/omnifitapp/omnifit.git
 ```
 
 ### 2. Navigate to the Project Directory:
 ```bash
-cd hybrid-health-club
+cd omnifit
 ```
 
 ### 3. Open the Website Locally:
@@ -69,3 +69,4 @@ Feel free to fork the repository and submit pull requests for improvements or ne
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
